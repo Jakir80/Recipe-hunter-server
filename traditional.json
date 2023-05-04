@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Barisal",
+        "traditionalFood": {
+            "name": "Pitha",
+            "description": "Barisal is known for its delicious and unique varieties of pitha. Pitha is a traditional Bengali sweet made of rice flour and jaggery or sugar. The district is also famous for its fresh water fish dishes such as shorshe ilish and pabda jhal."
+        }
+    },
+    {
+        "id": 2,
+        "name": "Chittagong",
+        "traditionalFood": {
+            "name": "Mezbani",
+            "description": "Chittagong is famous for its meat dishes, particularly the spicy and flavorful mezbani beef and mutton curry. The district is also known for its seafood, including the popular chingri malai curry made with prawns in a rich coconut milk sauce."
+        }
+    },
+    {
+        "id": 3,
+        "name": "Dhaka",
+        "traditionalFood": {
+            "name": "Biryani",
+            "description": "Dhaka is famous for its mouth-watering biryani, a flavorful rice dish made with spices, meat, and sometimes vegetables. The district is also known for its street food, including the popular fuchka and jhal muri."
+        }
+    },
+    {
+        "id": 4,
+        "name": "Khulna",
+        "traditionalFood": {
+            "name": "Bhuna Khichuri",
+            "description": "Khulna is famous for its spicy and flavorful bhuna khichuri, a traditional Bengali dish made with rice, lentils, and spices. The district is also known for its sweetmeats, including the popular patishapta and rashogolla."
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mymensingh",
+        "traditionalFood": {
+            "name": "Shatkora Beef Curry",
+            "description": "Mymensingh is famous for its tangy and flavorful shatkora beef curry, a dish made with slow-cooked beef and shatkora, a citrus fruit found in the region. The district is also known for its unique desserts, such as komla lebu pitha and chandrapuli."
+        }
+    },
+    {
+        "id": 6,
+        "name": "Rajshahi",
+        "traditionalFood": {
+            "name": "Pabda",
+            "description": "Rajshahi is famous for its fresh water fish dishes, particularly the delicious and succulent pabda fish. The district is also known for its mangoes, which are widely considered to be the best in Bangladesh."
+        }
+    },
+    {
+        "id": 7,
+        "name": "Rangpur",
+        "traditionalFood": {
+            "name": "Tehari",
+            "description": "Rangpur is famous for its aromatic and flavorful tehari, a rice dish made with spices, vegetables, and sometimes meat. The district is also known for its pithe puli, a variety of sweetmeats made with rice flour, jaggery, and coconut."
+        }
+    }
+]

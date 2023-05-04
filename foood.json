@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Biryani",
+        "description": "A flavorful rice dish made with meat (chicken, beef, or lamb), vegetables, and spices.",
+        "picture": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlyaXlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Haleem",
+        "description": "A hearty stew made with a mix of lentils, meat (beef, lamb, or chicken), and spices.",
+        "picture": "https://media.istockphoto.com/id/1436499840/photo/daal-moong-makhni-served-in-a-plate-isolated-on-background-top-view-of-indian-and-pakistani.jpg?b=1&s=170667a&w=0&k=20&c=gkBX6D1jmu43pHdiHUGTQw8WhYVNkp4esw0_SDpTfQI="
+    },
+    {
+        "id": 3,
+        "name": "Fuchka",
+        "description": "A popular street food snack made with small, crispy fried shells filled with spiced potatoes, chickpeas, and tamarind chutney.",
+        "picture": "https://media.istockphoto.com/id/1478763559/photo/closeup-of-panipuri-golgappa-fried-food.jpg?s=2048x2048&w=is&k=20&c=mDlNxrxr5oshV5mCBM2eXPDcV4P9Rx6TAE2fsQH72Pg="
+    },
+    {
+        "id": 4,
+        "name": "Rasgulla",
+        "description": "A classic Bangladeshi dessert made with cheese balls soaked in syrup.",
+        "picture": "https://media.istockphoto.com/id/1209656661/photo/famous-bengali-sweet-rasgulla-is-ready-to-serve.jpg?b=1&s=170667a&w=0&k=20&c=QBOFP-42pBVFWJe9iu76FDo6q_iukZxPlZ4WEXFls2Q="
+    },
+    {
+        "id": 5,
+        "name": "Pitha",
+        "description": "A type of cake made with rice flour and coconut milk, often filled with sweet or savory ingredients.",
+        "picture": "https://media.istockphoto.com/id/1307591776/photo/patishapta.jpg?s=2048x2048&w=is&k=20&c=0tlg-G3TGzOfjnb_967dB6tk2oatuYjnazASZViBLwU="
+    },
+    {
+        "id": 6,
+        "name": "Chapati",
+        "description": "A simple flatbread made from wheat flour and water, commonly served with curries or other dishes.",
+        "picture": "https://media.istockphoto.com/id/1298650125/photo/homemade-roti-chapati-flatbread.jpg?b=1&s=170667a&w=0&k=20&c=qX49_xoj0K2md3RE5oXVhStD8e5hBdOi5BqHtukF31I="
+    }
+]
