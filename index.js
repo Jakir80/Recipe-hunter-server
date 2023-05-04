@@ -11,7 +11,7 @@ const chefes=require('./Chef.json')
 app.get('/chefes',(req,res)=>{
     res.send(chefes)
 })
-const food=require('./foood.json')
+const food=require('./food.json')
 app.get('/food',(req,res)=>{
     res.send(food)
 })
